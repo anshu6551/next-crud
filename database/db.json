@@ -1,0 +1,54 @@
+{
+  "posts": [
+    {
+      "title": "Fourth proj",
+      "content": "This is fourth post  in crud app using next js project",
+      "id": "64c5"
+    },
+    {
+      "id": "547a",
+      "title": "Fifth Posts",
+      "content": "This is fifth post  in crud app using next js"
+    },
+    {
+      "id": "a13a",
+      "title": "Sixth Post",
+      "content": "This is sixth post  in crud app using next js"
+    },
+    {
+      "id": "ecc5",
+      "title": "Seventh Post",
+      "content": "This is seventh post  in crud app using next js"
+    },
+    {
+      "id": "0820",
+      "title": "Eight Post",
+      "content": "This is eight post  in crud app using next js"
+    },
+    {
+      "id": "c448",
+      "title": "ninth post ",
+      "content": "This is ninth post  in crud app using next js"
+    },
+    {
+      "id": "7cf9",
+      "title": "Tenth Posts",
+      "content": "This is tenth post  in crud app using next js"
+    },
+    {
+      "id": "7541",
+      "title": "Eleventh Post",
+      "content": "This is eleventh post  in crud app using next js"
+    },
+    {
+      "title": "First Post",
+      "content": "This is first post  in crud app using next js",
+      "id": "e653"
+    },
+    {
+      "id": "7409",
+      "title": "7th",
+      "content": "nice"
+    }
+  ]
+}
